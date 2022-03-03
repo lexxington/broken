@@ -1,5 +1,5 @@
-Джун написал код. И этот код даже компилируется. Но скажем честно, это единственное его достоинство.
+The junior programmer wrote the code. He is able to compile this code, but, to be honest, this is its only advantage.
 
-Попробуйте переписать код таким образом, чтобы исправить ошибки, допущенные программистом, но при этом сохранив основную бизнес логику.
+Please rewrite the code to fix the errors, but try to keep business logic.
 
-Для упрощения будем считать, что ошибки допущены только в классе **BrokenService**, остальной код менять не надо.
+To simplify, we will assume that errors were made only in the **BrokenService** class, the rest of the code does not need to be changed.
